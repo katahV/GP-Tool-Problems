@@ -18,8 +18,8 @@ class Toolbox(object):
 
 class ToolA(object):
     DEFAULT_CONFIG = {
-        "db-sde": "..\\data\\sql-cases.sde",
-        "db-gdb": "..\\data\\cases.gdb"
+        "db-sde": "..\\..\\data\\sql-cases.sde",
+        "db-gdb": "..\\..\\data\\cases.gdb"
     }
 
     def __init__(self):
