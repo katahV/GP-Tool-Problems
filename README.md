@@ -9,7 +9,7 @@ arcgisinput: Folder with ArcGIS Server input files
 doc: Folder with documentation and images  
 
 **Version**  
-ArcGIS Pro 3.4.3  
+ArcGIS Pro 3.6.0  
 ArcGIS Enterprise 11.5
 
 ## Case 1
